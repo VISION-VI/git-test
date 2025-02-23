@@ -1,4 +1,4 @@
-package org.example;
+﻿package org.example;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class Main {
         System.out.println("main test");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("push test2");
     }
 }
